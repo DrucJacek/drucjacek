@@ -1,4 +1,4 @@
-# Hi there
+# Hi  :D
 ![Animacja](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)
 
 ## Who am I?
