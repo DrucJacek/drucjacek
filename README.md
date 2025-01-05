@@ -6,6 +6,7 @@
 - 🎯 My goals: **Become a Full-Stack Developer**
 - ⚡ Fun fact: **I code efficiently only when listening to Depeche Mode.** 🌌
 
+> *"Even the stars look brighter tonight - **Nothing's impossible**"*
 ---
 
 ## My stats 📊
@@ -25,6 +26,3 @@
 
 ## Contact me 🌐
 - 💼 LinkedIn: [My Profile](https://www.linkedin.com/in/jacek-dru%C4%87-597286304/)
-
----
-> *"Even the stars look brighter tonight - **Nothing's impossible**"*
