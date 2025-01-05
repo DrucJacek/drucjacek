@@ -28,5 +28,5 @@
 
 ---
 
-![Logo Depeche Mode](https://upload.wikimedia.org/wikipedia/commons/1/1b/Depeche_Mode_logo_2022.png)
+![Depeche Mode Typing Animation](https://media.giphy.com/media/LlDgMwz0qv2ZW/giphy.gif)
 > *Even the stars look brighter tonight Nothing's impossible*
