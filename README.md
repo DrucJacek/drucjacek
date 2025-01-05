@@ -27,6 +27,4 @@
 - 💼 LinkedIn: [My Profile](https://www.linkedin.com/in/jacek-dru%C4%87-597286304/)
 
 ---
-
-![Depeche Mode Typing Animation](https://media.giphy.com/media/LlDgMwz0qv2ZW/giphy.gif)
-> *Even the stars look brighter tonight Nothing's impossible*
+> *"Even the stars look brighter tonight - **Nothing's impossible**"*
