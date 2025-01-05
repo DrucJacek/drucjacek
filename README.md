@@ -25,3 +25,7 @@
 
 ## Contact me 🌐
 - 💼 LinkedIn: [My Profile](https://www.linkedin.com/in/jacek-dru%C4%87-597286304/)
+
+---
+![Logo Depeche Mode](https://upload.wikimedia.org/wikipedia/commons/8/8f/Depeche_Mode_%28Logo%29.png)
+> *Even the stars look brighter tonight Nothing's impossible*
