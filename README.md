@@ -2,8 +2,8 @@
 ![Animacja](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)
 
 ## Who am I?
-- 🌱 Currently learning: **React and Django REST Framework**
-- 🎯 My goals: **Become a Full-Stack Developer**
+- ⚡ Currently learning: **DRF, Django, Python, GCP**
+- ⚡ My goals: **Make the world a better place**
 - ⚡ Fun fact: **I code efficiently only when listening to Depeche Mode.** 🌌
 
 > *"Even the stars look brighter tonight - **Nothing's impossible**"*
@@ -21,4 +21,4 @@
 ---
 
 ## Contact me 🌐
-- 💼 LinkedIn: [My Profile](https://www.linkedin.com/in/jacek-dru%C4%87-597286304/)
+- 💼 LinkedIn: [My Profile](https://www.linkedin.com/in/jacek-druc/)
