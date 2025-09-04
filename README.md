@@ -1,16 +1,13 @@
-#||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
 ![Animacja](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)
 
-## Who am I?
-- ⚡ Currently learning: **DRF, Django, Python, GCP**
-- ⚡ My goals: **Make the world a better place**
-- ⚡ Fun fact: **I code efficiently only when listening to Depeche Mode.** 🌌
-
+🌌 **I code efficiently only when listening to Depeche Mode.**
 > *"Even the stars look brighter tonight - **Nothing's impossible**"*
 ---
 
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=drucjacek&show_icons=true&theme=radical)
 
+🌌 Currently learning: **DRF, Django, Python, GCP**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
