@@ -18,6 +18,7 @@
 
 🌌 Currently learning: **DRF, Django, Python, GCP**
 
+🌌 Proactive person
 ---
 
 ## Contact me 🌐
