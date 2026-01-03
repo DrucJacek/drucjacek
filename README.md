@@ -7,12 +7,11 @@
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
 ---
-
 🌌 **I code efficiently only when listening to Depeche Mode.**
 > *"Even the stars look brighter tonight - **Nothing's impossible**"*
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=drucjacek&show_icons=true&theme=radical)
+- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=drucjacek&show_icons=true&theme=radical)
 
 ## Contact me
 - LinkedIn: [My Profile](https://www.linkedin.com/in/jacek-druc/)
