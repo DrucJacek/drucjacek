@@ -8,8 +8,7 @@
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
 
 ---
-🌌 **I code efficiently only when listening to Depeche Mode.**
-> *"Even the stars look brighter tonight - **Nothing's impossible**"*
+🌌 > "Programming is all I have left, and it's all I need to rebuild."
 ---
 
 ## Contact me
