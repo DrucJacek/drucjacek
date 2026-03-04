@@ -8,7 +8,7 @@
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
 
 ---
-🌌 > "Programming is all I have left, and it's all I need to rebuild."
+> "Programming is all I have left, and it's all I need to rebuild." 🌌 
 ---
 
 ## Contact me
