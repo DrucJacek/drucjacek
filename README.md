@@ -8,7 +8,7 @@
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
 
 ---
-> "Programming is all I have left, and it's all I need to rebuild." 🌌 
+> Welcome to my GitHub profile—a showcase of my greatest passion. I am a developer with several years of experience building web applications using Django. I also specialize in developing robust APIs, mainly leveraging the Django REST Framework. My professional background in a software house environment has allowed me to deepen my technical expertise and transition into cloud technologies, specifically Google Cloud (GCP). I take immense pride in my work and am always eager to tackle new challenges and expand my knowledge. 🌌
 ---
 
 ## Contact me
